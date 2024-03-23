@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(img/mano_con_baraja.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.container {
+  width: 100%;
+}
